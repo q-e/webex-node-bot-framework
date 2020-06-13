@@ -33,6 +33,7 @@
   "license": "MIT",
   "dependencies": {
     "https-proxy-agent": "^5.0.0",
+    "mime-types": "^2.1.27",
     "moment": "^2.24.0",
     "mongodb": "^3.5.7",
     "url": "^0.11.0",
